@@ -1,6 +1,6 @@
 {
   "name": "generator-simple-less-site",
-  "version": "2.1",
+  "version": "2.0.14",
   "description": "Yeoman generator for creating a simple website using lessCSS and bootstrap",
   "keywords": [
     "yeoman-generator",
